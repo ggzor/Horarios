@@ -1,0 +1,32 @@
+# Topics 
+
+- **Web Development**
+  - **Frontend**
+    - [Svelte](https://svelte.dev/)
+    - [React](https://reactjs.org/)
+    - [Reactive Programming](https://rxjs-dev.firebaseapp.com/)
+  - **Backend**
+    - [Amazon Lambda](https://aws.amazon.com/lambda)
+    - **Databases**
+      - [neo4j](https://neo4j.com/)
+      - [MongoDB](https://www.mongodb.com/)
+- **Functional Programming**
+  - **Haskell**
+    - Real world Haskell
+    - Ninety-nine problems
+    - Learn you a Haskell for a great good
+- **Category Theory**
+  - [Bartosz Millewski Programming Cafe](https://bartoszmilewski.com/)
+- **Machine Learning**
+  - Deep Learning
+  - Computer Vision
+- **Math**
+  - Linear Algebra
+  - Book of Proof
+- **Computer Science**
+  - Languages and automatas
+  - Lambda Calculus
+  - Algorithms
+- **Personal Projects**
+  - Unity3D
+    - Flexia4D
