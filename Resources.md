@@ -1,16 +1,43 @@
 # Resources
 
 - Algorithms
-  - Introduction to Algorithms 
+  - Introduction to Algorithms
+  - [CodeSignal](https://app.codesignal.com/)
+  - [Hackerrank](https://www.hackerrank.com/)
 - Amazon Lambda
+  - Youtube Videos 
+    [1](https://www.youtube.com/watch?v=NhGEik26324&list=WL&index=201&t=27s) 
+    [2](https://www.youtube.com/channel/UCeRY0LppLWdxWAymRANTb0g)
+  - AWS Lambda in Action
+  - [Serverless Tutorial](https://serverless-stack.com)
 - Category Theory
-- Computer Science @ Languages | Lambda Calculus
+  - [Bartosz Millewski Programming Cafe](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+  - [Category Theory for Programmers](https://www.youtube.com/user/DrBartosz/videos)
+- Computer Science @ Lambda Calculus
+  - [OneDrive Books (Lambda Calculus)]()
+- Computer Science @ Languages
+  - [OneDrive Books (Parsing)]()
 - Computer Vision
-- Databases @ neo4j | MongoDB
-- Frontend @ Svelte | React
+  - [OneDrive Books (OpenCV)]()
+- Databases @ MongoDB
+  - [Online MongoDB Tutorials](https://university.mongodb.com/)
+- Databases @ neo4j
+  - Neo4j in Action
+- Frontend @ React
+  - React in Action
+- Frontend @ Svelte
+  - [Official Page](https://svelte.dev/)
 - Deep Learning
+  - Deep Learning with Python
 - Math - Book of Proof
+  - How to prove it
+  - How to solve it
 - Math - Linear Algebra
+  - Linear Algebra Done Right
 - Haskell
+  - Real World Haskell
+  - Practical Haskell
+  - Practical Web Development with Haskell
 - Reactive Programming
 - Unity3D
+  - 
